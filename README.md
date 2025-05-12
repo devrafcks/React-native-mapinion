@@ -92,7 +92,7 @@ Backend do Mapinion: uma API feita em Node.js para registro, login, postagem e a
 
 ---
 
-## 🔗 Repositório
+## 🔗 Repositório do App com React Native(expo)
 
-[github.com/devrafcks/React-native-mapinion](https://github.com/devrafcks/React-native-mapinion)
+[github.com/devrafcks/React-native-mapinion-app](https://github.com/devrafcks/React-native_mapinion-app)
 
